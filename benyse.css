@@ -1,0 +1,20 @@
+<html>
+<head>
+<style>
+form{
+		background:yellowgreen;
+		color: gray;
+		width: 50%;
+		height: 100%;
+	border-radius: 120px;
+}
+fiedset{
+
+	font-size: 15px;
+	border-radius:120px;
+	width:50 px;
+	height: 200px;
+}
+input{
+	border-radius: 30px;
+}
